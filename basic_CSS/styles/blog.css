@@ -1,0 +1,32 @@
+.header{
+    height:200px;
+   /* background-image: url('cute.jpg');*/
+    background-image: url('../44.png');
+    background-size:50%; /*cover,contain*/
+    background-repeat: no-repeat;
+    background-color: aqua;
+    background-position: center;
+MARGIN
+    
+
+} 
+
+h4{
+    color:magenta;
+text-decoration: overline wavy green;
+}
+p{
+    color:brown
+}
+.page-title{
+    font-weight: 500px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:blueviolet
+    
+
+}
+.blog{
+     background-color:peru;
+     box-shadow: 10px 10px gray;
+     margin-bottom: 10px;
+}
